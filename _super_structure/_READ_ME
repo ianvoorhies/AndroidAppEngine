@@ -1,0 +1,6 @@
+dont change the super structures
+use subclasses to inherit these
+override super functions for customization
+functions to override are not listed as final
+dont remove final signature and override non-final functions
+the functions with final signature are essential for it to work
